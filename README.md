@@ -2,6 +2,7 @@
 This is a simple program that encode and decode Base64 strings.
 
 ```python src.py -h```
+
 usage: src.py [-h] echo
 
 positional arguments:
